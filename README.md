@@ -47,30 +47,38 @@ Temos como base os princípios:
 - Mediação online para colaboração (em vez de “tutoria reativa”); e,
 - Jornada formativa e colaborativa, baseada em competências (em vez de apenas exames presenciais). 
  
-Do ponto de vista de plataforma de apoio a jornada de educação digital [Mural](https://www.mural.co/) para dinâmicas de trabalho síncrono e para as missões utilizados a plataforma [Strateegia](https://app.strateegia.digital/dashboard/public-link/4qYOTW). As atividades serão enviadas por meio de forks e pull requests. 
+As atividades serão enviadas por meio de forks e pull requests. 
 
 ## Avaliação
 
-A avaliação neste curso se dará da seguinte forma: os aspectos teóricos serão avaliados por meio das missões com caráter de avaliação individual, mas vale ressaltar que as missões possuem uma natureza de execução prática; a consolidação dos aspectos teóricos discutidos ao longo da disciplina serão avaliados por meio de um exercício prático e em equipe que consistirá no desenvolvimento de um protótipo de alta fidelidade desenvolvido com o design sprint.
+A consolidação dos aspectos teóricos discutidos ao longo da disciplina serão avaliados por meio de TRÊS exercícios práticos e em equipe que consistirá no desenvolvimento de um protótipo de alta fidelidade desenvolvido com o design sprint, avaliação heurística usando método de peer-review e um website contendo a divulgação do time, artefatos produzidos incluindo protótipo e o vídeo de conceito.
 
-Na primeira iterção os alunos deverão apresentar um protótipo feito em figma e validado com 5 usuários. Após
+Na primeira iterção os alunos deverão apresentar um protótipo feito em figma e validado com 5 usuários após a realização do design sprint - versão reduzida (4 dias)
+
+Na segunda iteração as equipes avaliarão o protótipo produzido por outro time, devendo relatar e sugerir modificações de acordo com a heurística escolhidaa.
+
+Na terceira iteração o site deverá ser apresentado juntamente com a versão final do protótipo, contendo as correções sugeridas pelos usuários e pelas heurísticas, bem como o vídeo de conceito da aplicação.
 
 ## Ferramentas
 
 * [GitHub](https://github.com) (sistema de controle de versão distribuída, rápido e escalável).
 * [Mural](http://mural.co) (ferramenta para brainstorm, design thinking e Design sprint)
-* 
+* [Figma](https://www.figma.com/) (ferramenta de prototipagem)
+* [Marvel](https://marvelapp.com/) (ferramenta de prototipagem)
 
 ## Links, posts e artigos diversos
 
 * [AJ&Smart] (https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw) - UI/UX e Design Sprint
+* [Figma Tutorial - short] (https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+* [Figma Tutorial] (https://www.youtube.com/watch?v=II-6dDzc-80&list=RDCMUCvBGFeXbBrq3W9_0oNLJREQ&start_radio=1&rv=II-6dDzc-80&t=16)
 
 ## Referências
 
-*
-
-
-# IHC-BCC33C
-
-
-
+* PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de interação: além da interação homem-computador. Porto Alegre: Bookman, 2005. 548 p. ISBN 8536304944.
+* SHNEIDERMAN, Ben; PLAISANT, Catherine. Designing the user interface: strategies for effective human-computer interaction. 5th ed. Boston, MA: Addison-Wesley, c2010. 605 p. ISBN 0321537351.
+* NIELSEN, Jakob; HOA, Loranger. Usabilidade na web: projetando websites com qualidade . Rio de Janeiro, RJ: Elsevier, 2007. 406 p. ISBN 9788535221909
+* ROCHA, Heloisa Vieira da; BARANAUSKAS, Maria Cecilia Calani. Design e avaliação de interfaces humano-computador. Campinas: NIED/UNICAMP, 2003. 244 p. ISBN 85-88833-04-2
+* BENYON, David. Interação Humano-Computador. São Paulo, SP. Editora Pearson, 2011. ISBN 978-85-7936-109-8
+* BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro, RJ: Elsevier, 2010. 384 p. (Campus. SBC). ISBN 9788535234183.
+* SANTA ROSA, José Guilherme. Avaliação e projeto no design de interfaces. 2. ed. rev. e atual. Rio de Janeiro: 2AB, 2012. 223 p. ISBN 9788586695469.
+* OLIVEIRA NETTO, Alvim Antônio de. IHC - Interação Humano Computador: modelagem e gerência de interfaces com o usuário. Florianópolis: Visual Books, 2004. 120 p. ISBN 85-7502-138-9.
