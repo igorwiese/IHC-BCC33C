@@ -23,14 +23,14 @@ Este curso não pressupõe nenhum conhecimento anterior da interação humano-co
 O objetivo desta disciplina consiste em possibilitar a compreensão de que os artefatos produzidos por profissionais de computação destinam-se à publicos específicos, com diferentes habilidades técnicas e perfis sócio-culturais. Permitir aos alunos realizarem uma análise da inserção de determinadas tecnologias aos diferentes perfis de usuário. Apresentar os principais conceitos relacionados aos aspectos cognitivos e aos fatores humanos no desenvolvimento de software interativo. Praticar as principais técnicas e métodos para o projeto, implementação e avaliação de interações humano-computador
 
 ## Resultados de aprendizagem do aluno do curso
-Após a conclusão deste curso, os alunos serão capazes de demonstrar o seguinte
-competências avançadas:
-Os estudantes irão:
-- Entender os novos desafios, oportunidades e problemas em aberto do novo cenário da indústria de software como serviço e as principais diferença sem relação ao software empacotado;
-- Desenvolver um projeto de um sistema de informação simples desde a concepção através de planejamento, desenvolvimento, avaliação/teste, implantação e operação, enfrentando os desafios inerentes de cada fase;
-- Compreender e utilizar ferramentas e metodologias ágeis de desenvolvimento, incluindo estórias de usuários e controle de versão para desenvolvimento baseado em times;
-- Desenvolver habilidades técnicas e de colaboração para trabalhar em times de desenvolvimento software;
-- Compreender e aplicar estruturas, padrões e técnicas fundamentais de programação, incluindo padrões de projeto para arquitetura de software, refatoração, entre outras, para melhorar a capacidade de manutenção, modularidade e reutilização de software.
+Após a conclusão deste curso, os alunos serão capazes de alcançar os seguintes resultados de aprendizagem:
+- Compreender conceitos específicos sobre IHC e UX considerando o contexto histórico e teorias existentes: Affordance, Acessibilidades, Usabilidade, UX, design de interação;
+- Aplicar avaliação heurísticas em interfaces existentes documentando os defeitos encontrados;
+- Aplicar testes de usabilidade com usuários;
+- Identificar necessidades dos usuários para um problema específico;
+- Construir protótipos de alta fidelidade com base nos requisitos e necessidades dos usuários;
+- Aplicar técnica de personas e cenários para construir modelos conceiturais;
+- Produzir videos conceituais da solução proposta.
 
 
 ## Metodologia
