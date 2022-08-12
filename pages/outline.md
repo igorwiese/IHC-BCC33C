@@ -8,11 +8,9 @@ Sigam aqui o planejamento das aulas. É possível que mudanças aconteçam no de
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
  11/08/22 (Qui) | [Introdução à disciplina.](../notes/Lecture_01.pdf)                               | Aula Teórica 
- 15/08/22 (Seg) | [Conceitos IHC](../notes/Lecture_02.pdf)                                          | Aula Teórica
+ 17/08/22 (Qua) | [Conceitos IHC](../notes/Lecture_02.pdf)                                          | Aula Teórica
  18/08/22 (Qui) | [Avaliação UX](../notes/Lecture_03.pdf)                                           | Aula Teórica
- 22/08/22 (Seg) |                                                                                   | Aula Teórica
+ 24/08/22 (Qua) |                                                                                   | Aula Teórica
  25/08/22 (Qui) |                                                                                   | Aula Teórica
- 29/08/22 (Seg) |                                                                                   | Aula Teórica
+ 30/08/22 (Qua) |                                                                                   | Aula Teórica
  01/09/22 (Qui) |                                                                                   | Aula Teórica
- 25/09/22 (Seg) |                                                                                   | Aula Teórica 
-
