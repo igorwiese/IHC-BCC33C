@@ -10,7 +10,7 @@ Repositório da Disciplina de Interação Humano Computador (BCC33C) do curso de
 **homepage:** [igorwiese.com](http://igorwiese.com/) <br/>
 **Horário de P-Aluno:** Terça N1 (18:40 - 19:30), Quinta T1 (13:00 - 13:50) e N1 (18:40 - 19:30) <br/>
 
-Esta "versão" da disciplina foi inspirada na disciplina de [Stanford] (https://hci.stanford.edu/courses/cs147/) e nas lições aprendidas com as versões anteriores da disciplina.
+Esta "versão" da disciplina foi inspirada na disciplina de [Stanford](https://hci.stanford.edu/courses/cs147/) e nas lições aprendidas com as versões anteriores da disciplina.
 
 ## Ementa
 
@@ -68,9 +68,9 @@ Na terceira iteração o site deverá ser apresentado juntamente com a versão f
 
 ## Links, posts e artigos diversos
 
-* [AJ&Smart] (https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw) - UI/UX e Design Sprint
-* [Figma Tutorial - short] (https://www.youtube.com/watch?v=FTFaQWZBqQ8)
-* [Figma Tutorial] (https://www.youtube.com/watch?v=II-6dDzc-80&list=RDCMUCvBGFeXbBrq3W9_0oNLJREQ&start_radio=1&rv=II-6dDzc-80&t=16)
+* [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw) - UI/UX e Design Sprint
+* [Figma Tutorial - short](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+* [Figma Tutorial](https://www.youtube.com/watch?v=II-6dDzc-80&list=RDCMUCvBGFeXbBrq3W9_0oNLJREQ&start_radio=1&rv=II-6dDzc-80&t=16)
 
 ## Referências
 
