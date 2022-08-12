@@ -1,7 +1,7 @@
-| [Home](https://github.com/igorwiese/Engenharia-de-Software-BCC35E) | [Agenda](/pages/outline.md) | [Equipes](/pages/equipes.md) |
+| [Home](https://github.com/igorwiese/IHC-BCC33C/) | [Agenda](/pages/outline.md) | [Equipes](/pages/equipes.md) |
 
 
-# Engenharia de Software (BCC35E)
+# IHC - Interação Humano Computador (BCC33C)
 
 Repositório da Disciplina de Interação Humano Computador (BCC33C) do curso de Ciência da Computação da Universidade Tecnológica Federal do Paraná - Campus Campo Mourão
 
