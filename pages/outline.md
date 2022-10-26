@@ -11,6 +11,4 @@ Dia             | Conteúdo                                                     
  17/08/22 (Qua) | [Conceitos IHC](../notes/Lecture_02.pdf)                                          | Aula Teórica
  18/08/22 (Qui) | [Avaliação UX](../notes/Lecture_03.pdf)                                           | Aula Teórica
  24/08/22 (Qua) | [UX Research](../notes/Lecture_04.pdf)                                            | Aula Teórica
- 25/08/22 (Qui) | [Design sprint]                                                                   | Aula Teórica
- 30/08/22 (Qua) |                                                                                   | Aula Teórica
- 01/09/22 (Qui) |                                                                                   | Aula Teórica
+ 25/08/22 (Qui) | [Design sprint](../notes/designsprint.pdf)                                        | Aula Teórica
